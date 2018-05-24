@@ -1,0 +1,7 @@
+[user]
+	name = Samuel Factor
+	email = sfxfactor@gmail.com
+[credential]
+	helper = chche --timeout=3600
+[color]
+	ui = true
